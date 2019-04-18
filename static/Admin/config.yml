@@ -8,7 +8,7 @@ backend:
 
   collections:
     collections:
-  - name: "coding" # Used in routes, e.g., /admin/collections/blog
+    name: "coding" # Used in routes, e.g., /admin/collections/blog
     label: "coding" # Used in the UI
     folder: "content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
